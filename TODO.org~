@@ -1,0 +1,9 @@
+* TODO
+** model: user, category, article,
+*** article: points, comments, title, image_url
+*** cronjob: crawl every 5 minutes
+** admin panel for category, cronjob
+** API receive all article filter by category
+* TODO
+* TODO
+* TODO 

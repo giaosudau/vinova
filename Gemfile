@@ -1,3 +1,4 @@
+
 source 'https://rubygems.org'
 
 
@@ -40,3 +41,13 @@ gem 'debugger', group: [:development, :test]
 
 # Use rails-admin
 gem 'rails_admin', :git => 'git://github.com/sferik/rails_admin.git'
+
+# Use warden
+gem 'warden', '~> 1.2.3'
+
+# Spec
+gem 'rspec-rails','~> 2.0'
+
+gem 'bcrypt-ruby', '3.1.2'
+
+gem 'mechanize'
